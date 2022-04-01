@@ -6,15 +6,13 @@
 }
 
 body {
-    margin-top: 60px;
+    margin-top: 50px;
     background-image: url(https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/463180/83c5e2ce7f74f5e1441d5afe13145dd47da91f04.jpg);
 }
 
 h1 {
     font-family: 'Secular One', sans-serif;
 }
-
-
 
 #date {
     background-color: #ff522c;
